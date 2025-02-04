@@ -13,3 +13,9 @@ Modern UI: Enjoy an intuitive interface built with React and TypeScript.
 Backend: Python, Flask, Librosa, Pydub
 Frontend: React with TypeScript
 Audio Processing: Librosa for BPM detection and beat tracking; Pydub for audio mixing
+
+
+# Checklist
+[ ] UI for uploading songs
+[ ] Makes simple mixes with transitions
+[ ] Does live mixing
